@@ -7,6 +7,9 @@
 - [chapter 1](spacy_chapter1.ipynb): Introduce you to the basics of text processing with spaCy: data structures, statistical models, and how to use them to predict linguistic features in your text.
 - [chapter 2](spaCy_chapter2.ipynb): Extract specific information from large volumes of text, to make the most of spaCy's data structures and to combine statistical and rule-based approaches for text analysis.
 
+[Named Entity Recognition](NER.ipynb): Apply Named Entity Recoginiton and spaCy pretrained model on finance news.
+
+
 
 
 
