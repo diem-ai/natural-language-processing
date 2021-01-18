@@ -9,6 +9,11 @@
 
 [Named Entity Recognition](NER.ipynb): Apply Named Entity Recoginiton and spaCy pretrained model on finance news.
 
+Text processing : [TextHero](https://texthero.org)
+
+Conversation AI: [Rasa Open Source](https://rasa.com)
+
+NLP/NLU Open Souce: [SpaCy](https://spacy.io), [Element AI](https://www.expert.ai/products/nl-api)
 
 
 
